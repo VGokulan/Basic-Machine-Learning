@@ -93,3 +93,9 @@ Logistic Regression is used for binary classification problems. It models the pr
 ### [Support Vector Machine](support%20vector%20machine.ipynb)
 Support Vector Machine (SVM) is a powerful classification algorithm that finds the hyperplane that best separates the classes in the feature space.
 
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
