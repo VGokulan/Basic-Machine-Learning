@@ -56,3 +56,5 @@ To run a Jupyter notebook, navigate to the repository directory and start Jupyte
 
 ```sh
 jupyter notebook
+```
+This will open a new tab in your web browser. From there, you can open any of the provided notebooks and run the code cells.
