@@ -34,5 +34,25 @@ To get started with these notebooks, you'll need to have Python and Jupyter inst
 
 1. Clone this repository to your local machine:
 
-   ```sh
-   git clone https://github.com/your-username/basic-machine-learning.git
+    ```sh
+    git clone https://github.com/your-username/basic-machine-learning.git
+    ```
+
+2. Navigate to the cloned repository:
+
+    ```sh
+    cd basic-machine-learning
+    ```
+
+3. Install the required packages:
+
+    ```sh
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+To run a Jupyter notebook, navigate to the repository directory and start Jupyter Notebook:
+
+```sh
+jupyter notebook
