@@ -4,7 +4,7 @@ This repository contains Jupyter notebooks covering fundamental machine learning
 
 ## Contents
 
-1. [K-Nearest Neighbor](K-nearest%20neighbor.ipynb)
+1. [K-Nearest Neighbor](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/K-nearest%20neighbor.ipynb)
 2. [Linear Discriminant Analysis](LINEAR%20DISCRIMINANT%20ANALYSIS.ipynb)
 3. [Linear Regression](Linear%20Regression.ipynb)
 4. [Multivariate Regression](Multivariate%20regression.ipynb)
