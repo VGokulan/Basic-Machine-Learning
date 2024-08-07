@@ -1,2 +1,2 @@
 # Machine-Learning
-A repository of Machine Learning Techniques
+A repository of Basic Machine Learning Techniques
