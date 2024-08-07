@@ -5,16 +5,16 @@ This repository contains Jupyter notebooks covering fundamental machine learning
 ## Contents
 
 1. [K-Nearest Neighbor](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/K-nearest%20neighbor.ipynb)
-2. [Linear Discriminant Analysis](LINEAR%20DISCRIMINANT%20ANALYSIS.ipynb)
-3. [Linear Regression](Linear%20Regression.ipynb)
-4. [Multivariate Regression](Multivariate%20regression.ipynb)
-5. [Naive Bayes](Naive%20bayes.ipynb)
-6. [Principal Component Analysis](Principal%20Component%20Analysis.ipynb)
-7. [K-Means Clustering](k-means.ipynb)
-8. [K-Medians Clustering](k-medians.ipynb)
-9. [K-Means Clustering (Small Dataset)](k_means%20small.ipynb)
-10. [Logistic Regression](logistic%20regression.ipynb)
-11. [Support Vector Machine](support%20vector%20machine.ipynb)
+2. [Linear Discriminant Analysis](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/LINEAR%20DISCRIMINANT%20ANALYSIS.ipynb)
+3. [Linear Regression](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/Linear%20Regression.ipynb)
+4. [Multivariate Regression](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/Multivariate%20regression.ipynb)
+5. [Naive Bayes](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/Naive%20bayes.ipynb)
+6. [Principal Component Analysis](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/Principal%20Component%20Analysis.ipynb)
+7. [K-Means Clustering](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/k-means.ipynb)
+8. [K-Medians Clustering](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/k-medians.ipynb)
+9. [K-Means Clustering (Small Dataset)](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/k_means%20small.ipynb)
+10. [Logistic Regression](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/logistic%20regression.ipynb)
+11. [Support Vector Machine](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/support%20vector%20machine.ipynb)
 
 ## Getting Started
 
@@ -61,41 +61,41 @@ This will open a new tab in your web browser. From there, you can open any of th
 
 ## Notebooks Overview
 
-### [K-Nearest Neighbor](K-nearest%20neighbor.ipynb)
+### [K-Nearest Neighbor](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/K-nearest%20neighbor.ipynb)
 The K-Nearest Neighbor (KNN) algorithm is a simple, yet powerful, classification method. It works by finding the K closest data points in the training set to a new data point and assigning the most common class among those neighbors to the new data point.
 
-### [Linear Discriminant Analysis](LINEAR%20DISCRIMINANT%20ANALYSIS.ipynb)
+### [Linear Discriminant Analysis](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/LINEAR%20DISCRIMINANT%20ANALYSIS.ipynb)
 Linear Discriminant Analysis (LDA) is used for dimensionality reduction while preserving as much of the class discriminatory information as possible. It projects the data onto a lower-dimensional space with good class-separability to avoid overfitting. 
-### [Linear Regression](Linear%20Regression.ipynb)
+### [Linear Regression](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/Linear%20Regression.ipynb)
 Linear Regression is a fundamental algorithm for predicting a continuous dependent variable based on one or more independent variables. 
 
-### [Multivariate Regression](Multivariate%20regression.ipynb)
+### [Multivariate Regression](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/Multivariate%20regression.ipynb)
 Multivariate Regression is an extension of linear regression to multiple dependent variables. It models the relationship between multiple independent variables and multiple dependent variables. 
 
-### [Naive Bayes](Naive%20bayes.ipynb)
+### [Naive Bayes](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/Naive%20bayes.ipynb)
 Naive Bayes is a probabilistic classifier based on Bayes' Theorem with strong independence assumptions between the features. 
 
-### [Principal Component Analysis](Principal%20Component%20Analysis.ipynb)
+### [Principal Component Analysis](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/Principal%20Component%20Analysis.ipynb)
 Principal Component Analysis (PCA) is a technique used for reducing the dimensionality of datasets, increasing interpretability while minimizing information loss. It does so by transforming the data to a new set of variables, the principal components, which are orthogonal and capture the maximum variance in the data.
 
-### [K-Means Clustering](k-means.ipynb)
+### [K-Means Clustering](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/k-means.ipynb)
 K-Means Clustering is an unsupervised learning algorithm used to partition a dataset into K distinct, non-overlapping subsets (clusters). Each data point belongs to the cluster with the nearest mean. 
 
-### [K-Medians Clustering](k-medians.ipynb)
+### [K-Medians Clustering](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/k-medians.ipynb)
 K-Medians Clustering is similar to K-Means, but it uses the median instead of the mean, making it more robust to outliers. T
 
-### [K-Means Clustering (Small Dataset)](k_means%20small.ipynb)
+### [K-Means Clustering (Small Dataset)](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/k_means%20small.ipynb)
 This notebook provides a simpler, faster version of K-Means clustering for smaller datasets. It focuses on the implementation details and practical considerations when working with small datasets.
 
-### [Logistic Regression](logistic%20regression.ipynb)
+### [Logistic Regression](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/logistic%20regression.ipynb)
 Logistic Regression is used for binary classification problems. It models the probability that a given input point belongs to a certain class. 
 
-### [Support Vector Machine](support%20vector%20machine.ipynb)
+### [Support Vector Machine](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/Program/support%20vector%20machine.ipynb)
 Support Vector Machine (SVM) is a powerful classification algorithm that finds the hyperplane that best separates the classes in the feature space.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or additions.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/VGokulan/Basic-Machine-Learning-Techniques/blob/main/LICENSE) file for details.
 
